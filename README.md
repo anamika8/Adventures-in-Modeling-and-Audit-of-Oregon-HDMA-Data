@@ -7,8 +7,6 @@ HMDA was originally enacted by Congress in 1975 and is implemented by Regulation
 
 ## Resources:
 - [2021 HMDA Dataset](https://ffiec.cfpb.gov/data-browser/data/2021?category=states&items=OR)
-- [2021 HMDA Documentation](https://ffiec.cfpb.gov/documentation/2021/)
-- [2021 Data-Field Specification](https://ffiec.cfpb.gov/documentation/2021/lar-data-fields/)
 - [2021 HMDA Guide](https://www.ffiec.gov/hmda/pdf/2021Guide.pdf)
 
 ## Project Overview:
